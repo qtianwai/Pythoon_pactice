@@ -1,0 +1,683 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8"><meta name="keywords" content="浦发银行(600000),浦发银行股票,600000,浦发银行股票行情,行情趋势,股市通,证券,证券社区,智能选股,大盘,基本面情况,机构面诊断,基本面诊断,技术面诊断"/><meta name="description" content="股市通为您提供浦发银行(600000)股票的行情走势,五档盘口,逐笔交易等实时行情数据,及浦发银行(600000)的新闻资讯,公司公告,研究报告,行业研报,F10资料,行业要闻,资金流分析,机构观点,股吧互动等与浦发银行(600000)有关的信息和服务"/><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><meta name="baidu-site-verification" content="NWZjxlSiHd"/><meta name="referrer" content="always"/><title>浦发银行(600000)个股数据查询 - 个股行情 - 股市通</title><script type="text/javascript">window.alogObjectConfig = {product: '655',page: "655_9",sample: '0.5',speed: {sample: '0.5'},monkey: {sample: '0.5'},exception: {sample: '0.5'},feature: {sample: '0.1'},cus: {sample: '1'},csp: {sample: '0.5','default-src': [{match: '*bae.baidu.com', target: 'Accept,Warn'},{match: '*.baidu.com,*.bdstatic.com,*.bdimg.com,localhost', target: 'Accept'},{match: /^(127|172|192|10)(\.\d+){3}$/, target: 'Accept'},{match: '*', target: 'Accept,Warn'}]}};</script><script type="text/javascript">void function(e,o,t,n,a,i,c){if(e.alogObjectName=a,e[a]=e[a]||function(){(e[a].q=e[a].q||[]).push(arguments)},e[a].l=e[a].l||+new Date,"https:"===e.location.protocol){if(n="https://gss2.bdstatic.com/70cFsjip0QIZ8tyhnq"+n,!e.alogObjectConfig||!e.alogObjectConfig.sample)return}else n="http://img.baidu.com"+n;var g=!0;if(e.alogObjectConfig&&e.alogObjectConfig.sample){var s=Math.random();e.alogObjectConfig.rand=s,s>e.alogObjectConfig.sample&&(g=!1)}g&&(i=o.createElement(t),i.async=!0,i.src=n,c=o.getElementsByTagName(t)[0],c.parentNode.insertBefore(i,c))}(window,document,"script","/hunter/alog/alog.min.js","alog"),void function(){function e(){}window.PDC={mark:function(e,o){alog("speed.set",e,o||+new Date),alog.fire&&alog.fire("mark")},init:function(e){alog("speed.set","options",e)},view_start:e,tti:e,page_ready:e}}(),void function(e){var o=!1;e.onerror=function(e,t,n,a){var i=!0;return!t&&/^script error/i.test(e)&&(o?i=!1:o=!0),i&&alog("exception.send","exception",{msg:e,js:t,ln:n,col:a}),!1},alog("exception.on","catch",function(e){alog("exception.send","exception",{msg:e.msg,js:e.path,ln:e.ln,method:e.method,flag:"catch"})})}(window);</script><link href="/favicon.ico" type="image/x-icon" rel="icon"><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon"><script type="text/javascript"  data-fixed="true">var __gupiao = window.__gupiao || {};var _hmt = _hmt || [];var require = {};require.resourceMap = function(obj) {__gupiao.sourceMap = obj;}</script>
+            <link type="text/css" rel="stylesheet" href="/frontstatic/app/pc/static/css/stock/stock_style_515b75b.css">
+<!--[if lt IE 9]>
+	<script type="text/javascript" src="/frontstatic/app/pc/static/js/lib/flashcanvas_dd456f6.js"></script>
+<![endif]-->
+    
+
+</head>
+<script> alog('speed.set', 'ht', +new Date);</script>
+<body data-spm="2">
+
+<div id="app-wrap" class="wrap">
+    <!--个股详细页面-->
+    <div class="top-search wrap" data-spm="1">
+    <div class="search">
+        <div class="logo" data-spm="1">
+        <a href="/">
+            <img src="/frontstatic/app/pc/static/img/gst-logo_942ef08.png"/>
+        </a>
+        </div>
+        <div class="search rel">
+            <input type="text" name="q" class="search" placeholder="输入股票名称/代码/首字母" autocomplete="off">
+            <button id='search' class="blue-btn" type="submit" data-spm="2">搜 索</button>
+            <div class="search-div" style="display:none;"></div>
+        </div>
+    </div>
+    <div class="username rel right">
+                <a id="login-btn" class="login-btn text-highlight" href="https://passport.baidu.com/" data-spm="3">登录</a> |
+        <a class="register-btn" href="//passport.baidu.com/" target="_blank" data-spm="4">注册</a>
+                 |
+        <a class="gst-link text-highlight" target="_blank" href="https://gupiao.baidu.com/download/"  data-spm="5">下载股市通</a> |
+        <a  href="javascript:void(0);" class="add-favorite" data-spm="6" data-track="pc_add_favorite"><i></i>添加到收藏夹</a>
+        <div class="arrow-up app-download" style="display: none;">
+            <img src="/frontstatic/app/pc/static/img/barcode_a75bcca.png" alt="扫码下载股市通app">
+            <div>扫码下载股市通app</div>
+        </div>
+        <input type="hidden" id="stoken-status" value=""/>
+    </div>
+</div>
+
+    
+<div class="stock-info" data-spm="2">
+    <div class="stock-bets">
+        <h1>
+            <a class="bets-name" href="/stock/sh600000.html">
+            浦发银行 (<span>600000</span>)
+            </a>
+            <span class="state f-up">已休市 2018-06-15 &nbsp;15:01:30
+            </span>
+        </h1>
+        <div class="price s-up ">
+                        <strong  class="_close">10.30</strong>
+            <span>+0.08</span>
+            <span>+0.78%</span>
+                    </div>
+        <div class="bets-content">
+            
+                                            <div class="line1">
+                    <dl><dt>今开</dt><dd class="s-up">10.22</dd></dl>
+                    <dl><dt>成交量</dt><dd>19.91万手</dd></dl>
+                    <dl><dt>最高</dt><dd class="s-up">10.34</dd></dl>
+                    <dl><dt>涨停</dt><dd class="s-up">11.24</dd></dl>
+                    <dl><dt>内盘</dt><dd>8.99万手</dd></dl>
+                    <dl><dt>成交额</dt><dd>2.05亿</dd></dl>
+                    <dl><dt>委比</dt><dd>-47.33%</dd></dl>
+                    <dl><dt>流通市值</dt><dd>2894.69亿</dd></dl>
+                    <dl><dt class="mt-1">市盈率<sup>MRQ</sup></dt><dd>5.28</dd></dl>
+                    <dl><dt>每股收益</dt><dd>0.49</dd></dl>
+                    <dl><dt>总股本</dt><dd>293.52亿</dd></dl>
+                    <div class="clear"></div>
+                </div>
+                <div class="line2">
+                    <dl><dt>昨收</dt><dd>10.22</dd></dl>
+                    <dl><dt>换手率</dt><dd>0.07%</dd></dl>
+                    <dl><dt>最低</dt><dd class="s-down">10.19</dd>
+                    </dl>
+                    <dl><dt>跌停</dt><dd class="s-down">
+                        9.20</dd></dl>
+                    <dl><dt>外盘</dt><dd>10.92万手</dd></dl>
+                    <dl><dt>振幅</dt><dd>1.47%</dd></dl>
+                    <dl><dt>量比</dt><dd>1.56</dd></dl>
+                    <dl><dt>总市值</dt><dd>3023.26亿</dd></dl>
+                    <dl><dt>市净率</dt><dd>0.76</dd></dl>
+                    <dl><dt>每股净资产</dt><dd>13.57</dd></dl>
+                    <dl><dt>流通股本</dt><dd>281.04亿</dd></dl>
+                </div>
+                                        <div class="clear"></div>
+        </div>
+    </div>
+    <ul class="stock-add">
+        <li data-spm="1"><button class="">+ 加自选</button></li>
+        <li class="hint invisible"><span class="add-stock-count">0</span>人关注该股票</li>
+    </ul>
+    </div>
+
+           <div class="f10-menu m-t" data-spm="3">
+    <!-- <a href="/diagnosis/index.html?code=600000" target="_blank" data-spm="1">个股诊断</a> -->
+    <a href="/stock/dzjy/sh600000.html"  target="_blank"  data-spm="2">大宗交易</a>
+    <a href="/stock/lhb/sh600000.html"  target="_blank"  data-spm="3">龙虎榜</a>
+    <a href="/stock/rzrq/sh600000.html"  target="_blank"  data-spm="4">融资融券</a>
+    <a href="/stock/zjlx/sh600000.html"  target="_blank"  data-spm="5">资金流向</a>
+        <a href="http://www.gaf10.com/f10.html?code=600000" target="_blank" data-spm="6">
+    更多F10
+        </a>
+    </div>
+    <!-- 个股页面-左侧 -->
+<div class="left stock-left-box m-t">
+<!-- 五日、分时、周K等数据 -->
+    <div class="timeline-tab" data-spm="4">
+    <ul id="main-chart-tab">
+                <li class="current" data-tab-index=0 data-spm="1">分时</li>
+        <li class="" data-tab-index=1 data-spm="2">五日</li>
+        <li class="" data-tab-index=2 data-spm="3">日K</li>
+        <li class="" data-tab-index=3 data-spm="4">周K</li>
+        <li class="no-border" data-tab-index=4 data-spm="5">月K</li>
+            </ul>
+</div>
+<div class="flash m-t chart" id="main-chart" data-spm="4">
+    <div class="chart-wrapper">
+        <canvas id="d-chart" width="728" height="329"></canvas>
+        <div class="handicap" id="handicap" data-spm="10">
+            <div class="nav">
+                <ul><li class="current" data-tab-index="0" data-spm="1">五档</li>
+                <li data-tab-index="1" data-spm="2">明细</li></ul>
+            </div>
+            <div class="tabs">
+                <table class="five-range">
+                    <tbody></tbody>
+                </table>
+                <table class="detail" style="display:none;">
+                    <thead>
+                        <tr><th width="20%">时间</th><th width="35%" style="text-align:right;">成交价</th><th width="35%" colspan="2" style="text-align:right;">成交量</th></tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+        </div>
+        <div class="arc run" id="d-arc">
+            <div class="bg"></div>
+            <div class="point"></div>
+        </div>
+    </div>
+    <div  class="chart-wrapper">
+        <canvas id="f-chart" width="728" height="329"></canvas>
+    </div>
+    <div  class="chart-wrapper">
+        <div class="k-chart-top-bar">
+            <span class="decrease">缩短K线</span>
+            <span class="increase">拉长K线</span>
+            <div class="fq">
+                <input type="radio" name="fuquan" value="no" checked="checked" text="不复权">不复权
+                <input type="radio" name="fuquan" value="front" text="前复权">前复权
+            </div>
+        </div>
+        <canvas id="daily-k-chart" width="728" height="329"></canvas>
+        <div class="k-chart-bottom-bar">
+            <ul>
+                <li data-type="volume" class="current">成交量</li>
+                <li data-type="macd">MACD</li>
+                <li data-type="kdj">KDJ</li>
+                <li data-type="rsi">RSI</li>
+            </ul>
+        </div>
+    </div>
+    <div  class="chart-wrapper">
+        <div class="k-chart-top-bar">
+            <span class="decrease">缩短K线</span>
+            <span class="increase">拉长K线</span>
+            <div class="fq">
+                <input type="radio" name="fuquan1" value="no" checked="checked" text="不复权">不复权
+                <input type="radio" name="fuquan1" value="front" text="前复权"/>前复权
+            </div>
+        </div>
+        <canvas id="weekly-k-chart" width="728" height="329"></canvas>
+        <div class="k-chart-bottom-bar">
+            <ul>
+                <li data-type="volume" class="current">成交量</li>
+                <li data-type="macd">MACD</li>
+                <li data-type="kdj">KDJ</li>
+                <li data-type="rsi">RSI</li>
+            </ul>
+        </div>
+    </div>
+    <div  class="chart-wrapper">
+        <div class="k-chart-top-bar">
+            <span class="decrease">缩短K线</span>
+            <span class="increase">拉长K线</span>
+            <div class="fq">
+                <input type="radio" name="fuquan2" value="no" checked="checked" text="不复权">不复权
+                <input type="radio" name="fuquan2" value="front" text="前复权">前复权
+            </div>
+        </div>
+        <canvas id="monthly-k-chart" width="728" height="329"></canvas>
+        <div class="k-chart-bottom-bar">
+            <ul>
+                <li data-type="volume" class="current">成交量</li>
+                <li data-type="macd">MACD</li>
+                <li data-type="kdj">KDJ</li>
+                <li data-type="rsi">RSI</li>
+            </ul>
+        </div>
+    </div>
+<div style="width: 100%;height: 360px;line-height: 329px;text-align: center;" id="no-data">暂无数据</div>
+</div>
+
+        <!-- <div class="m-t ad-container" data-spm="5">
+    <a href="https://8.baidu.com/fund/info?code=001732" target="_blank" data-spm="1">
+        <img src="/frontstatic/app/pc/static/img/gf_ad_168b662.png" alt="下载股市通抓涨停牛股"/>
+    </a>
+</div>
+ -->
+    	<div class="m-t ad-container" data-spm="5">
+    <a href="https://gupiao.baidu.com/download/" target="_blank" data-spm="1">
+        <img src="https://8.baidu.com/content/tmp/325a85e4196ec70a94471350a28ecff7.jpg" alt="下载股市通抓涨停牛股"/>
+    </a>
+</div>
+
+                <script type="text/javascript">void function(e,t){for(var n=t.getElementsByTagName("img"),a=+new Date,i=[],o=function(){this.removeEventListener&&this.removeEventListener("load",o,!1),i.push({img:this,time:+new Date})},s=0;s<n.length;s++)!function(){var e=n[s];e.addEventListener?!e.complete&&e.addEventListener("load",o,!1):e.attachEvent&&e.attachEvent("onreadystatechange",function(){"complete"==e.readyState&&o.call(e,o)})}();alog("speed.set",{fsItems:i,fs:a})}(window,document);</script>
+        <div class="stock-related-tab m-t" data-spm="6">
+        <ul class="tab" data-spm="1">
+            <li class="current" data-tab="news" data-spm="1">新闻</li>
+            <li  data-tab="notice" data-spm="2">公告</li>
+                        <li  data-tab="report" data-spm="3">研报</li>
+                        <li  data-tab="comment" class="hide" data-spm="3">评论</li>
+        </ul>
+        <div class="clearfix"></div>
+    </div>
+    <div class="stock-related-list" data-spm="6">
+        <ul data-spm="2">
+            <li class="row">
+        <h4 class="text-ellipsis"><a target="_blank" href="/article/6600230977871050053" data-spm="1">
+        银行年报提前看：谁家最赚钱？谁家不良贷款率最高？</a></h4>
+        <p class="desc">
+                    
+        </p>
+        <div class="bottom">
+            <ul class="left">
+                            <li>2018-03-09 17:45</li>
+                                        </ul>
+            <div class="clearfix"></div>
+        </div>
+    </li>
+            <li class="row">
+        <h4 class="text-ellipsis"><a target="_blank" href="/article/14644265069655968930" data-spm="2">
+        浦发银行天津分行多项举措助力京津冀协同发展</a></h4>
+        <p class="desc">
+                    　　浦发银行天津分行作为股份制商业银行的一员，在支持京津冀协同发展等战略上，已在多方面付诸实践，用实际行动助力京津冀协同发展，取得良好效果。　　为加大京津冀协同发展项目在浦发银行天津分行的推进力度，加强总分行、区域内各分行间的信息共享和业务合作共赢，制定了《浦发银行京津冀协同发展重要工作领导小组工作...
+        </p>
+        <div class="bottom">
+            <ul class="left">
+                            <li>2018-03-09 17:31</li>
+                                        </ul>
+            <div class="clearfix"></div>
+        </div>
+    </li>
+            <li class="row">
+        <h4 class="text-ellipsis"><a target="_blank" href="/article/13056677519008392514" data-spm="3">
+        浦发银行美丽女人信用卡焕美首发 全力赋能“她时代”</a></h4>
+        <p class="desc">
+                    
+        </p>
+        <div class="bottom">
+            <ul class="left">
+                            <li>2018-03-08 14:38</li>
+                                        </ul>
+            <div class="clearfix"></div>
+        </div>
+    </li>
+            <li class="row">
+        <h4 class="text-ellipsis"><a target="_blank" href="/article/6984951700365409967" data-spm="4">
+        浦发银行南昌分行力推债务融资工具 发挥优势服务地方经济发展</a></h4>
+        <p class="desc">
+                    
+        </p>
+        <div class="bottom">
+            <ul class="left">
+                            <li>2018-03-06 00:00</li>
+                                        </ul>
+            <div class="clearfix"></div>
+        </div>
+    </li>
+            <li class="row">
+        <h4 class="text-ellipsis"><a target="_blank" href="/article/3904920560173542055" data-spm="5">
+        浦发银行上海分行成功办理首单境外个人跨境人民币汇出汇款业务</a></h4>
+        <p class="desc">
+                    
+        </p>
+        <div class="bottom">
+            <ul class="left">
+                            <li>2018-03-05 15:27</li>
+                                        </ul>
+            <div class="clearfix"></div>
+        </div>
+    </li>
+            <li class="row">
+        <h4 class="text-ellipsis"><a target="_blank" href="/article/15940427693599447" data-spm="6">
+        浦发银行上海分行积极参与防范非法集资宣传活动</a></h4>
+        <p class="desc">
+                    为了提高社会公众对非法集资危害性的认识，进一步普及金融知识，增强大众自我保护意识，引导公众自觉远离和抵制非法集资，浦发银行奉贤支行积极参与由奉贤区打击非法集资和金融诈骗领导小组举办的主题宣传活动。浦发银行通过采用了我国民间群众喜闻乐见的传统说唱曲艺表演形式“三句半”，自编自导自演了“远离非法集资，拒...
+        </p>
+        <div class="bottom">
+            <ul class="left">
+                            <li>2018-03-05 15:26</li>
+                                        </ul>
+            <div class="clearfix"></div>
+        </div>
+    </li>
+            <li class="row">
+        <h4 class="text-ellipsis"><a target="_blank" href="/article/5155715790557162560" data-spm="7">
+        南京熊猫电子股份2.1亿元购买浦发银行理财产品</a></h4>
+        <p class="desc">
+                    南京熊猫电子股份(00553.HK)宣布，于2018年3月1日，公司根据理财协议使用了暂时闲置的自有资金人民币2.1亿元(约2.59亿港元)，投资于浦发银行保本理财产品。据悉，该理财产品为上海浦东发展银行利多多对公结构性存款固定持有期JG902期，为期90天，预期年化收益率4.6%。
+        </p>
+        <div class="bottom">
+            <ul class="left">
+                            <li>2018-03-03 00:00</li>
+                                        </ul>
+            <div class="clearfix"></div>
+        </div>
+    </li>
+            <li class="row">
+        <h4 class="text-ellipsis"><a target="_blank" href="/article/2737959123150114055" data-spm="8">
+        上海浦发银行重庆分行因违反征信管理规定被罚5万元</a></h4>
+        <p class="desc">
+                    原标题：上海浦发银行重庆分行因违反征信管理规定被罚5万元　　中国网财经3月1日讯 昨日，中国人民银行重庆营管部发布了一则行政处罚公告。上海浦东发展银行重庆分行因违反《征信业管理条例》第四十条规定被罚5万元。
+        </p>
+        <div class="bottom">
+            <ul class="left">
+                            <li>2018-03-01 16:51</li>
+                                        </ul>
+            <div class="clearfix"></div>
+        </div>
+    </li>
+            <li class="row">
+        <h4 class="text-ellipsis"><a target="_blank" href="/article/5608937519941450010" data-spm="9">
+        浦发银行重庆分行违反《征信业管理条例》 被罚款5万元</a></h4>
+        <p class="desc">
+                    
+        </p>
+        <div class="bottom">
+            <ul class="left">
+                            <li>2018-03-01 13:18</li>
+                                        </ul>
+            <div class="clearfix"></div>
+        </div>
+    </li>
+            <li class="row">
+        <h4 class="text-ellipsis"><a target="_blank" href="/article/14705094534773002755" data-spm="10">
+        浦发银行力推数字化服务模式 网贷业务超千亿</a></h4>
+        <p class="desc">
+                    
+        </p>
+        <div class="bottom">
+            <ul class="left">
+                            <li>2018-03-01 00:00</li>
+                                        </ul>
+            <div class="clearfix"></div>
+        </div>
+    </li>
+     
+</ul>
+	<div class="_container pager" >
+		<input type="hidden" value="1" class="_currentPage" max-page="16" link="/stock/sh600000.html?tab=news"/>
+		<a class="left-btn _prevPage" href="/stock/sh600000.html?tab=news&page=0" style="display:none" data-spm="4">
+		</a>
+
+		
+									<!-- 1 2 3 ... n -->
+									<a class="pagenum _pageLink  current "  page="1"  data-spm="3.1"
+					href="/stock/sh600000.html?tab=news&page=1" >1</a>
+									<a class="pagenum _pageLink "  page="2"  data-spm="3.2"
+					href="/stock/sh600000.html?tab=news&page=2" >2</a>
+									<a class="pagenum _pageLink "  page="3"  data-spm="3.3"
+					href="/stock/sh600000.html?tab=news&page=3" >3</a>
+									<a class="pagenum _pageLink "  page="4"  data-spm="3.4"
+					href="/stock/sh600000.html?tab=news&page=4" >4</a>
+									<a class="pagenum _pageLink "  page="5"  data-spm="3.5"
+					href="/stock/sh600000.html?tab=news&page=5" >5</a>
+								<a class="pagenum">...</a>
+				<a class="pagenum _pageLink" page="16"  href="/stock/sh600000.html?tab=news&page=16" >16</a>
+							<a class="right-btn  _nextPage" href="/stock/sh600000.html?tab=news&page=2" data-spm="5">
+		</a>
+
+		<span class="text">跳转到</span>
+		<input class="page-num _pageNum"/>
+		<a class="page-btn _pageBtn">
+			<span class="bg" data-spm="6">确定</span>
+		</a>
+			
+	</div>
+
+
+
+    </div>
+</div>
+<div class="right stock-right-box">
+    <div class="my-stock side-border m-t stock-side" data-spm="7">
+    <h3 class="section-header">股票</h3>
+    <ul class="side-tab my-stock-tab">
+        <li class="active" data-spm="1" data-track="pc_aside_stock_tab_history">历史</li>
+        <li data-spm="2" data-track="pc_aside_stock_tab_hot_stock">热门</li>
+        <li title="点击刷新自选股" data-groupid data-spm="3" data-track="pc_aside_stock_tab_my_stock">
+            <span data-track="pc_aside_my_stock">自选股</span>
+            <em></em>
+        </li>
+    </ul>
+    <div class="choose-group arrow-up"></div>
+    <div class="my-stock-item active history" data-type="history">
+        <table cellspacing="0">
+            <tbody>
+                <tr><th>股票名称</th><th>最新价</th><th>涨跌幅</th></tr>
+            </tbody>
+        </table>
+        <div class="no-history hide">您还未有浏览记录</div>
+    </div>
+    <div class="my-stock-item" data-type="hotStock"></div>
+    <div class="my-stock-item" data-type="stock">
+        <table cellspacing="0">
+            <tbody>
+                <tr><th>股票名称</th><th>最新价</th><th>涨跌幅</th></tr>
+            </tbody>
+        </table>
+                <div class="my-stock-hint" >
+            <button class="login-btn blue-btn" data-spm="4">登录</button>
+            <p>登录后同步您的自选股</p>
+        </div>
+            </div>
+</div>
+            <!-- <div class="fund-recomm side-border m-t " data-spm="20">
+    <h3 class="section-header">热门基金主题</h3>
+    <ul class="fund-side-tab fund-recomm-tab">
+        <li class="active" data-spm="1" data-track="gupiao_fund_tab_change">稳健增长</li>
+        <li data-spm="1" data-track="gupiao_fund_tab_change">反弹先锋</li>
+    </ul>
+    <div class="choose-group arrow-up"></div>
+
+    <div class="fund-recomm-item active" data-type="theme5">
+
+    </div>
+    <div class="fund-recomm-item" data-type="theme4">
+
+    </div>
+</div> -->
+
+                <div class="side-fund side-border stock-side m-t"  data-spm="8">
+    <h3 class="section-header">资金</h3>
+    <ul class="side-fund-tab">
+        <li class="active" data-spm="1">今日</li>
+        <li data-spm="2">五日</li>
+    </ul>
+    <div class="side-fund-tab-item clear " style="display: block;">
+        <canvas id="fundChart1" style="height: 0px;"></canvas>
+        <div id="fund-chart-hint" class="arrow-up">
+            <div>主力流入</div>
+            <div>1000万元</div>
+            <div>20%</div>
+        </div>
+        <div class="side-fund-today">
+            <dl>
+                <dt><i class="fund-main-in"></i>主力流入</dt>
+                <dd class="col2">--</dd>
+                <dd class="col3">--</dd>
+            </dl>
+            <dl>
+                <dt><i class="fund-retail-in"></i>散户流入</dt>
+                <dd class="col2">--</dd>
+                <dd class="col3">--</dd>
+            </dl>
+            <dl>
+                <dt><i class="fund-main-out"></i>主力流出</dt>
+                <dd class="col2">--</dd>
+                <dd class="col3">--</dd>
+            </dl>
+            <dl>
+                <dt><i class="fund-retail-out"></i>散户流出</dt>
+                <dd class="col2">--</dd>
+                <dd class="col3">--</dd>
+            </dl>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+    <div class="side-fund-tab-item clear">
+        <canvas id="fundChart2"></canvas>
+    </div>
+    <div class="clear"></div>
+</div>
+        <!-- 个股诊断  -->
+
+        <!-- 基本面 right-ad -->
+<div class="stock-side side-border m-t" data-spm="10">
+	<h3 class="section-header">基本面</h3>
+	<div class="industry">
+		<h4>所属行业</h4>
+		<p>金融业</p>
+
+		<h4>公司概况</h4>
+		<p>以提供银行及相关金融服务为主营，上海市国资委控股。全国性股份制商业银行，“中国上市公司100强”，曾获“2013最佳中国品牌价值排行榜”第15位。</p>
+
+		<h4 class="rel">业绩同比增长率	<span>2018-03-31</span></h4>
+		<canvas id="stockRatio"></canvas>
+		
+			<h4>相关概念</h4>
+		</div>
+		<div class="concept">
+			<div class="tab">
+				<ul>
+																					<li class="current no-border" data-spm="1">沪港通</li>
+																
+																					<li data-spm="2">手机支付</li>
+																
+																					<li data-spm="3">转融券</li>
+																
+								</ul>
+			</div>
+									<div class="concept-tab">
+							<ul data-spm="1">
+					<li class="tab"><span>名称代码</span><span>最新价</span><span>涨跌幅</span></li>
+											<li>
+							<a target="_blank" href="/stock/sz002673.html" data-spm="1">
+								<span>西部证券</span>
+								<span>7.46</span>
+								<span class="s-up">+3.04%</span>
+							</a>
+						</li>
+											<li>
+							<a target="_blank" href="/stock/sh601009.html" data-spm="2">
+								<span>南京银行</span>
+								<span>8.06</span>
+								<span class="s-up">+2.15%</span>
+							</a>
+						</li>
+											<li>
+							<a target="_blank" href="/stock/sh600036.html" data-spm="3">
+								<span>招商银行</span>
+								<span>28.94</span>
+								<span class="s-up">+1.30%</span>
+							</a>
+						</li>
+											<li>
+							<a target="_blank" href="/stock/sh601088.html" data-spm="4">
+								<span>中国神华</span>
+								<span>21.19</span>
+								<span class="s-up">+1.05%</span>
+							</a>
+						</li>
+											<li>
+							<a target="_blank" href="/stock/sh600340.html" data-spm="5">
+								<span>华夏幸福</span>
+								<span>29.11</span>
+								<span class="s-up">+0.97%</span>
+							</a>
+						</li>
+									</ul>
+			</div>
+									<div class="concept-tab" style="display:none;">
+							<ul data-spm="2">
+					<li class="tab"><span>名称代码</span><span>最新价</span><span>涨跌幅</span></li>
+											<li>
+							<a target="_blank" href="/stock/sz002268.html" data-spm="1">
+								<span>卫 士 通</span>
+								<span>23.88</span>
+								<span class="s-up">+4.97%</span>
+							</a>
+						</li>
+											<li>
+							<a target="_blank" href="/stock/sz300077.html" data-spm="2">
+								<span>国民技术</span>
+								<span>10.14</span>
+								<span class="s-up">+3.15%</span>
+							</a>
+						</li>
+											<li>
+							<a target="_blank" href="/stock/sz002197.html" data-spm="3">
+								<span>证通电子</span>
+								<span>8.89</span>
+								<span class="s-up">+2.18%</span>
+							</a>
+						</li>
+											<li>
+							<a target="_blank" href="/stock/sz000948.html" data-spm="4">
+								<span>南天信息</span>
+								<span>10.50</span>
+								<span class="s-up">+1.65%</span>
+							</a>
+						</li>
+											<li>
+							<a target="_blank" href="/stock/sh600000.html" data-spm="5">
+								<span>浦发银行</span>
+								<span>10.30</span>
+								<span class="s-up">+0.78%</span>
+							</a>
+						</li>
+									</ul>
+			</div>
+									<div class="concept-tab" style="display:none;">
+							<ul data-spm="3">
+					<li class="tab"><span>名称代码</span><span>最新价</span><span>涨跌幅</span></li>
+											<li>
+							<a target="_blank" href="/stock/sh600383.html" data-spm="1">
+								<span>金地集团</span>
+								<span>11.19</span>
+								<span class="s-up">+3.23%</span>
+							</a>
+						</li>
+											<li>
+							<a target="_blank" href="/stock/sz000983.html" data-spm="2">
+								<span>西山煤电</span>
+								<span>8.04</span>
+								<span class="s-up">+2.55%</span>
+							</a>
+						</li>
+											<li>
+							<a target="_blank" href="/stock/sh600048.html" data-spm="3">
+								<span>保利地产</span>
+								<span>13.99</span>
+								<span class="s-up">+2.49%</span>
+							</a>
+						</li>
+											<li>
+							<a target="_blank" href="/stock/sz000002.html" data-spm="4">
+								<span>万  科Ａ</span>
+								<span>27.99</span>
+								<span class="s-up">+2.27%</span>
+							</a>
+						</li>
+											<li>
+							<a target="_blank" href="/stock/sh601668.html" data-spm="5">
+								<span>中国建筑</span>
+								<span>8.27</span>
+								<span class="s-up">+1.72%</span>
+							</a>
+						</li>
+									</ul>
+			</div>
+					</div>
+	</div>
+
+    </div>
+<!-- 个股页面-右侧 -->
+
+<div class="footer">
+    <p>股市有风险，投资需谨慎！</p>
+    <p>投资者依此做出的投资行为风险自担！</p>
+    <p>© 2018 Baidu
+        <span class="footer-notice">
+            <a href="http://www.baidu.com/duty/" target="_blank">使用百度前必读</a>|<a href="/help/disclaimer" target="_blank">股市通免责声明</a>|<a href="https://www.baidu.com/duty/yinsiquan.html" target="_blank">百度隐私权保护声明</a></p>
+        </span>
+</div>
+
+<div class="fixed-sidebar" data-spm="1.15">
+    <a href="/download/" class="sidebar-block appcode" target="_blank" data-spm="1" data-track="pc_appcode"><i></i><i class="pc_publiccode"></i></a>
+    <a href="javascript:void(0)" class="sidebar-block feedback" id="feedback-btn" data-spm="2" data-track="pc_feedback"></a>
+    <a href="javascript:void(0)" class="sidebar-block return-top" data-spm="3" data-track="pc_return_top"></a>
+</div>
+
+
+    
+<script type="text/javascript">(function () {function init_feedback() {if (bds && bds.qa && bds.qa.ShortCut && bds.qa.ShortCut.initRightBar) {var fb_options = {product_id: 188,issuePlaceholder: "欢迎提出您在使用过程中遇到的问题或宝贵建议（400字以内），感谢您对股市通的支持。"};bds.qa.ShortCut.initRightBar(fb_options);}}function loadRightBar() {if (window.bds&&window.bds.qa&&window.bds.qa.ShortCut) {init_feedback();} else {}return false;}document.getElementById("feedback-btn").onclick = loadRightBar;})();function loadScript(url, callback, opt) {var script = document.createElement("script");var opt = opt || {};script.type = "text/javascript";if (opt.charset) {script.charset = opt.charset;}if (opt.id) {script.id = opt.id;}if (script.readyState) {script.onreadystatechange = function () {if (script.readyState == "loaded" || script.readyState == "complete") {script.onreadystatechange = null;callback();}};} else {script.onload = function () {callback();};}script.src = url;document.body.appendChild(script);}</script>
+
+<script type="text/javascript" charset="utf-8" src="/frontstatic/app/pc/static/js/lib/lib_55bed3f.js"></script><script type="text/javascript" charset="utf-8" src="/frontstatic/app/pc/static/js/lib/feedback.js"></script><script type="text/javascript" charset="utf-8" src="/frontstatic/app/pc/static/js/pack/comp_23644a3.js"></script><!--[if lt IE 8]><script type="text/javascript" src="/frontstatic/app/pc/static/js/lib/json.js"></script><script type="text/javascript" src="/frontstatic/app/pc/static/js/lib/console.js"></script><![endif]--><!--[if lt IE 9]>
+<script type="text/javascript">
+    (function() {
+        var canvases = document.getElementsByTagName('canvas');
+        for(var i = 0; i < canvases.length; i++) {
+            var canvas = canvases[i];
+            if (typeof FlashCanvas != "undefined") {
+                FlashCanvas.initElement(canvas);
+            }
+        }
+    })();
+</script>
+<![endif]-->
+<script type="text/javascript" charset="utf-8" src="/frontstatic/app/pc/static/js/pack/chart_8dcff87.js"></script>
+<script type="text/javascript" charset="utf-8" src="/frontstatic/app/pc/static/js/pack/widget_bcee394.js"></script>
+<script type="text/javascript" charset="utf-8" src="/frontstatic/app/pc/static/js/pack/stock_eb51e0c.js"></script>
+<script type="text/javascript">__gupiao["stockType"] = "0";__gupiao["asset"] = "0";__gupiao["stockStatus"] = "已休市";__gupiao["stockCode"] = "sh600000";__gupiao["stockName"] = "浦发银行";__gupiao["trading"] = "";__gupiao["stockExchange"] = "sh";__gupiao["login"] = "0";__gupiao["uname"] = "";__gupiao["jxNav"] = "1";</script><script type="text/javascript" data-fixed="true">require.async("page/stock/index", function(obj) {obj.init();});</script><script type="text/javascript">void function(e,t,n,a,o,r){function c(t){e.attachEvent?e.attachEvent("onload",t,!1):e.addEventListener&&e.addEventListener("load",t)}function i(e,n,a){a=a||15;var o=new Date;o.setTime((new Date).getTime()+1e3*a),t.cookie=e+"="+escape(n)+";path=/;expires="+o.toGMTString()}function s(e){var n=t.cookie.match(new RegExp("(^| )"+e+"=([^;]*)(;|$)"));return null!=n?unescape(n[2]):null}function l(){var e=s("PMS_JT");if(e){i("PMS_JT","",-1);try{e=e.match(/{["']s["']:(\d+),["']r["']:["']([\s\S]+)["']}/),e=e&&e[1]&&e[2]?{s:parseInt(e[1]),r:e[2]}:{}}catch(n){e={}}e.r&&t.referrer.replace(/#.*/,"")!=e.r||alog("speed.set","wt",e.s)}}if(e.alogObjectConfig){var p=e.alogObjectConfig.sample,d=e.alogObjectConfig.rand;if("https:"===e.location.protocol){if(a="https://gss2.bdstatic.com/70cFsjip0QIZ8tyhnq"+a,!p||!d)return}else a="http://img.baidu.com"+a;p&&d&&d>p||(c(function(){alog("speed.set","lt",+new Date),o=t.createElement(n),o.async=!0,o.src=a+"?v="+~(new Date/864e5),r=t.getElementsByTagName(n)[0],r.parentNode.insertBefore(o,r)}),l())}}(window,document,"script","/hunter/alog/dp.min.js");</script><script type="text/javascript">alog('speed.set', 'drt', +new Date);</script></body>
+</html>
+
+<!--13198111640887172618061722-->
+<script> var _trace_page_logid = 1319811164; </script>

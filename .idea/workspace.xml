@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7df663e-967e-4a18-be73-5c46262146ca" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c7df663e-967e-4a18-be73-5c46262146ca" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,93 +10,74 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/pythonTest$url_spider.coverage" NAME="url_spider Coverage Results" MODIFIED="1528640161379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PR1_douban_zufang" />
     <SUITE FILE_PATH="coverage/pythonTest$_pydev_execfile.coverage" NAME="_pydev_execfile Coverage Results" MODIFIED="1528613803586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps" />
-    <SUITE FILE_PATH="coverage/pythonTest$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1528617024572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
-    <SUITE FILE_PATH="coverage/pythonTest$test_main.coverage" NAME="test_main Coverage Results" MODIFIED="1528624717499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
-    <SUITE FILE_PATH="coverage/pythonTest$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1528597492679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_mysql" />
-    <SUITE FILE_PATH="coverage/pythonTest$spider_main__1_.coverage" NAME="spider_main (1) Coverage Results" MODIFIED="1528628059093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baike_spider" />
-    <SUITE FILE_PATH="coverage/pythonTest$spider_main__2_.coverage" NAME="spider_main (2) Coverage Results" MODIFIED="1528643821824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PR1_douban_zufang" />
+    <SUITE FILE_PATH="coverage/pythonTest$aGUIchorme.coverage" NAME="a用GUI控制chorme浏览器 Coverage Results" MODIFIED="1571844616277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/PR11_定时打开豆瓣留言" />
+    <SUITE FILE_PATH="coverage/pythonTest$GUIQQ.coverage" NAME="用GUI控制QQ Coverage Results" MODIFIED="1570981107318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/PR7_定时给QQ群发消息" />
+    <SUITE FILE_PATH="coverage/pythonTest$manager.coverage" NAME="manager Coverage Results" MODIFIED="1550753416457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/参考案例/flask小程序框架/完整源码" />
     <SUITE FILE_PATH="coverage/pythonTest$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1528614186944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_mysql" />
+    <SUITE FILE_PATH="coverage/pythonTest$QQ.coverage" NAME="给QQ群发消息 Coverage Results" MODIFIED="1548427699012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/PR7_定时给QQ群发消息" />
+    <SUITE FILE_PATH="coverage/pythonTest$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1528597492679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_mysql" />
+    <SUITE FILE_PATH="coverage/pythonTest$d_.coverage" NAME="d趣信圈_微信群定时推广 Coverage Results" MODIFIED="1552224510554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/PR6_定时给微信发送信息" />
+    <SUITE FILE_PATH="coverage/pythonTest$n1_.coverage" NAME="n1_爬取歌词存入数据库 Coverage Results" MODIFIED="1529770437554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/PR4_mayDay_lyric" />
+    <SUITE FILE_PATH="coverage/pythonTest$CallWeatherWin.coverage" NAME="CallWeatherWin Coverage Results" MODIFIED="1573206543610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/PR10_PyQt5_/Chapter10/example1" />
+    <SUITE FILE_PATH="coverage/pythonTest$a_1_html.coverage" NAME="a.1_批量修改html文件 Coverage Results" MODIFIED="1573144319404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/PR9_涨粉邦_批量修改html文件" />
+    <SUITE FILE_PATH="coverage/pythonTest$selenuim.coverage" NAME="selenuim控制访问 Coverage Results" MODIFIED="1531568450105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonTest$spider_main__2_.coverage" NAME="spider_main (2) Coverage Results" MODIFIED="1528808825506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PR1_douban_zufang" />
+    <SUITE FILE_PATH="coverage/pythonTest$a_.coverage" NAME="a壹周_指定微信群定时发送消息 Coverage Results" MODIFIED="1551741552028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/PR6_定时给微信发送信息" />
+    <SUITE FILE_PATH="coverage/pythonTest$test_main.coverage" NAME="test_main Coverage Results" MODIFIED="1528624717499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
+    <SUITE FILE_PATH="coverage/pythonTest$c_.coverage" NAME="c壹周_向指定标签的好友发信息 Coverage Results" MODIFIED="1550449244996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/PR6_定时给微信发送信息" />
+    <SUITE FILE_PATH="coverage/pythonTest$2.coverage" NAME="群发消息2 Coverage Results" MODIFIED="1548429387514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/PR7_定时给QQ群发消息" />
     <SUITE FILE_PATH="coverage/pythonTest$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1528615939480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
+    <SUITE FILE_PATH="coverage/pythonTest$GUIchorme.coverage" NAME="用GUI控制chorme浏览器 Coverage Results" MODIFIED="1571068935256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/PR11_定时打开豆瓣留言" />
+    <SUITE FILE_PATH="coverage/pythonTest$mysql_config.coverage" NAME="mysql-config Coverage Results" MODIFIED="1529759200364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonTest$havaFun.coverage" NAME="havaFun Coverage Results" MODIFIED="1531542389286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonTest$n2_.coverage" NAME="n2_歌词频次分析 Coverage Results" MODIFIED="1529770736072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/PR4_mayDay_lyric" />
+    <SUITE FILE_PATH="coverage/pythonTest$haveFun.coverage" NAME="haveFun Coverage Results" MODIFIED="1530253180970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/PR4_mayDay_lyric" />
+    <SUITE FILE_PATH="coverage/pythonTest$manager__1_.coverage" NAME="manager (1) Coverage Results" MODIFIED="1551014353659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/PR8_壹周互粉/完整源码" />
+    <SUITE FILE_PATH="coverage/pythonTest$untitled.coverage" NAME="untitled Coverage Results" MODIFIED="1564213082824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/PR10_PyQt5_" />
     <SUITE FILE_PATH="coverage/pythonTest$module_beautifulsoup.coverage" NAME="module_beautifulsoup Coverage Results" MODIFIED="1528596825883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib" />
+    <SUITE FILE_PATH="coverage/pythonTest$_2.coverage" NAME="壹周_指定微信群定时发送消息2 Coverage Results" MODIFIED="1549597117864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/PR6_定时给微信发送信息" />
+    <SUITE FILE_PATH="coverage/pythonTest$spider_main__1_.coverage" NAME="spider_main (1) Coverage Results" MODIFIED="1528628059093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baike_spider" />
+    <SUITE FILE_PATH="coverage/pythonTest$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1528617024572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
+    <SUITE FILE_PATH="coverage/pythonTest$url_spider.coverage" NAME="url_spider Coverage Results" MODIFIED="1528640161379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PR1_douban_zufang" />
+    <SUITE FILE_PATH="coverage/pythonTest$_.coverage" NAME="壹周_指定微信群定时发送小心 Coverage Results" MODIFIED="1549456233827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/PR6_定时给微信发送信息" />
+    <SUITE FILE_PATH="coverage/pythonTest$b_.coverage" NAME="b壹周_我没时间 Coverage Results" MODIFIED="1550065841270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/PR6_定时给微信发送信息" />
+    <SUITE FILE_PATH="coverage/pythonTest$base_setting.coverage" NAME="base_setting Coverage Results" MODIFIED="1550915041761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/PR8_壹周互粉/完整源码/config" />
+    <SUITE FILE_PATH="coverage/pythonTest$.coverage" NAME="微信定时发送一日一记 Coverage Results" MODIFIED="1549614331688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/PR6_定时给微信发送信息" />
+    <SUITE FILE_PATH="coverage/pythonTest$manage.coverage" NAME="manage Coverage Results" MODIFIED="1550672094939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/参考案例/Django接口开发" />
+    <SUITE FILE_PATH="coverage/pythonTest$pinkRead.coverage" NAME="pinkRead Coverage Results" MODIFIED="1550914939091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/PR8_壹周互粉/完整源码/web/controllers/api" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="spider_main.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/baike_spider/spider_main.py">
+      <file leaf-file-name="WeatherWin.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/practice/PR10_PyQt5_/Chapter10/example1/WeatherWin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="31" column="39" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="39" />
+            <state relative-caret-position="209">
+              <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="html_downloader.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PR1_douban_zufang/html_downloader.py">
+      <file leaf-file-name="CallWeatherWin.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/practice/PR10_PyQt5_/Chapter10/example1/CallWeatherWin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="19" selection-start-column="19" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="html_outputer.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/baike_spider/html_outputer.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="html_parser.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/baike_spider/html_parser.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+            <state relative-caret-position="288">
+              <caret line="27" column="31" lean-forward="false" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
               <folding>
-                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#25#37#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="spider_main.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PR1_douban_zufang/spider_main.py">
+      <file leaf-file-name="CallWeatherWin.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/practice/PR11_定时打开豆瓣留言/CallWeatherWin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="codecs.py" pinned="false" current-in-tab="false">
-        <entry file="file://D:/Python36/Lib/codecs.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5852">
-              <caret line="308" selection-start-line="308" selection-end-line="308" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="html_parser.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PR1_douban_zufang/html_parser.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="23" />
-              <folding>
-                <element signature="e#24#53#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="html_outputer.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PR1_douban_zufang/html_outputer.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -118,7 +97,38 @@
     <findStrings>
       <find>request</find>
       <find>requestCnblogs</find>
+      <find>ITEM_PIPELINES</find>
+      <find>info</find>
+      <find>stock</find>
+      <find>也开始有个人</find>
+      <find>MySQLdb</find>
+      <find>back_session</find>
+      <find>writeTxt</find>
+      <find>get_allQQ</find>
+      <find>get_g_tk</find>
+      <find>&lt;meta http-equiv=&quot;refresh&quot; content=&quot;0; url=//qzs.qq.com/qzone/v6/troubleshooter/noscript.html&quot; /&gt;</find>
+      <find>&lt;li id=&quot;pLi_1000050009&quot;</find>
+      <find>qq_url</find>
+      <find>nickname_compile</find>
+      <find>add_friend_compile</find>
+      <find>userName</find>
+      <find>【壹周|互粉内容上报】</find>
+      <find>time</find>
+      <find>22:30</find>
+      <find>buildUrl</find>
+      <find>IGNORE_URLS</find>
+      <find>goToIndex</find>
+      <find>MemberComments</find>
+      <find>selectFilterObj</find>
+      <find>filter_by</find>
+      <find>job_tixing2</find>
+      <find>if</find>
+      <find>json</find>
     </findStrings>
+    <replaceStrings>
+      <replace>pymysql</replace>
+      <replace>UserName</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -127,37 +137,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/urllib/module_urllib.py" />
-        <option value="$PROJECT_DIR$/urllib/22.py" />
-        <option value="$PROJECT_DIR$/urllib/UrlManager.py" />
-        <option value="$PROJECT_DIR$/urllib/11.pyi" />
-        <option value="$PROJECT_DIR$/urllib/HtmlOutputer.py" />
-        <option value="$PROJECT_DIR$/urllib/spider_main.py" />
-        <option value="$PROJECT_DIR$/urllib/UrlManger.py" />
-        <option value="$PROJECT_DIR$/urllib/module_beautifulsoup.py" />
-        <option value="$PROJECT_DIR$/urllib/HtmlDownloader.py" />
-        <option value="$PROJECT_DIR$/python_mysql/test.py" />
-        <option value="$PROJECT_DIR$/python_mysql/__init__.py" />
-        <option value="$PROJECT_DIR$/urllib/HtmlParser.py" />
-        <option value="$PROJECT_DIR$/urllib/url_spider.py" />
-        <option value="$PROJECT_DIR$/python/module_test.py" />
-        <option value="$PROJECT_DIR$/python/test1.py" />
-        <option value="$PROJECT_DIR$/python/1111.py" />
-        <option value="$PROJECT_DIR$/python/22.py" />
-        <option value="$PROJECT_DIR$/python/test2.py" />
-        <option value="$PROJECT_DIR$/Learn_baike1000_spider/spider.py" />
-        <option value="$PROJECT_DIR$/python/test_main.py" />
-        <option value="$PROJECT_DIR$/baike_spider/spider_main.py" />
-        <option value="$PROJECT_DIR$/baike_spider/html_parser.py" />
-        <option value="$PROJECT_DIR$/python/url_spider.py" />
-        <option value="$PROJECT_DIR$/python/HtmlParser.py" />
-        <option value="$PROJECT_DIR$/douban_zufang/url_spider.py" />
-        <option value="$PROJECT_DIR$/PR1_douban_zufang/url_spider.py" />
-        <option value="$PROJECT_DIR$/PR1_douban_zufang/spider_main.py" />
-        <option value="$PROJECT_DIR$/PR1_douban_zufang/html_parser.py" />
-        <option value="$PROJECT_DIR$/PR1_douban_zufang/html_outputer.py" />
-        <option value="$PROJECT_DIR$/PR1_douban_zufang/html_downloader.py" />
+        <option value="$PROJECT_DIR$/practice/PR5_利用selenuim获取QQ空间留言板/selenuim控制访问.py" />
+        <option value="$PROJECT_DIR$/practice/PR5_利用selenuim获取QQ空间留言板/读取文件生成成果.py" />
+        <option value="$PROJECT_DIR$/practice/PR6_定时给微信发送信息/__init__.py" />
+        <option value="$PROJECT_DIR$/practice/PR6_定时给微信发送信息/微信定时发送.py" />
+        <option value="$PROJECT_DIR$/practice/PR6_定时给微信发送信息/微信定时发送词霸格言+晚安.py" />
+        <option value="$PROJECT_DIR$/practice/PR7_定时给QQ群发消息/给QQ群发小心.py" />
+        <option value="$PROJECT_DIR$/practice/PR7_定时给QQ群发消息/群发消息2.py" />
+        <option value="$PROJECT_DIR$/practice/PR7_定时给QQ群发消息/QQ.txt" />
+        <option value="$PROJECT_DIR$/practice/PR7_定时给QQ群发消息/用GUI控制QQ.py" />
+        <option value="$PROJECT_DIR$/practice/PR6_定时给微信发送信息/微信自动拉群和回复2.py" />
+        <option value="$PROJECT_DIR$/practice/PR6_定时给微信发送信息/微信自动拉群和回复.py" />
+        <option value="$PROJECT_DIR$/practice/PR6_定时给微信发送信息/壹周_指定微信群定时发送小心.py" />
+        <option value="$PROJECT_DIR$/practice/PR6_定时给微信发送信息/壹周_指定微信群定时发送消息2.py" />
+        <option value="$PROJECT_DIR$/practice/PR6_定时给微信发送信息/微信定时发送一日一记.py" />
+        <option value="$PROJECT_DIR$/practice/PR6_定时给微信发送信息/images/转送群消息.py" />
+        <option value="$PROJECT_DIR$/practice/PR6_定时给微信发送信息/转送群消息.py" />
+        <option value="$PROJECT_DIR$/practice/PR6_定时给微信发送信息/b壹周_我没时间.py" />
+        <option value="$PROJECT_DIR$/practice/PR6_定时给微信发送信息/a测试壹周_指定微信群定时发送消息.py" />
+        <option value="$PROJECT_DIR$/practice/PR6_定时给微信发送信息/a壹周装逼_指定微信群定时发送消息.py" />
+        <option value="$PROJECT_DIR$/practice/PR6_定时给微信发送信息/微信定时发送天气预报.py" />
+        <option value="$PROJECT_DIR$/practice/PR6_定时给微信发送信息/c壹周_向指定标签的好友发信息.py" />
+        <option value="$PROJECT_DIR$/参考案例/flask小程序框架/完整源码/www.py" />
+        <option value="$PROJECT_DIR$/参考案例/flask小程序框架/完整源码/config/local_setting.py" />
+        <option value="$PROJECT_DIR$/参考案例/flask小程序框架/完整源码/application.py" />
+        <option value="$PROJECT_DIR$/参考案例/flask小程序框架/完整源码/requirements.txt" />
+        <option value="$PROJECT_DIR$/参考案例/flask小程序框架/完整源码/web/interceptors/AuthInterceptor.py" />
+        <option value="$PROJECT_DIR$/practice/PR8_壹周互粉/完整源码/application.py" />
+        <option value="$PROJECT_DIR$/practice/PR8_壹周互粉/完整源码/web/controllers/api/__init__.py" />
+        <option value="$PROJECT_DIR$/practice/PR8_壹周互粉/完整源码/mina/pages/huyueInfo/index.wxml" />
+        <option value="$PROJECT_DIR$/practice/PR8_壹周互粉/完整源码/web/controllers/api/Order.py" />
+        <option value="$PROJECT_DIR$/practice/PR8_壹周互粉/完整源码/mina/pages/index/index.wxml" />
+        <option value="$PROJECT_DIR$/practice/PR8_壹周互粉/完整源码/mina/pages/huyueInfo/success.js" />
+        <option value="$PROJECT_DIR$/practice/PR8_壹周互粉/完整源码/mina/pages/huyueInfo/success.wxml" />
+        <option value="$PROJECT_DIR$/practice/PR8_壹周互粉/完整源码/mina/app.json" />
+        <option value="$PROJECT_DIR$/practice/PR8_壹周互粉/完整源码/mina/pages/my/index.wxml" />
+        <option value="$PROJECT_DIR$/practice/PR8_壹周互粉/完整源码/mina/pages/my/jieshao.wxml" />
+        <option value="$PROJECT_DIR$/practice/PR8_壹周互粉/完整源码/mina/pages/my/commentList.js" />
+        <option value="$PROJECT_DIR$/practice/PR8_壹周互粉/完整源码/mina/pages/my/commentList.wxml" />
+        <option value="$PROJECT_DIR$/practice/PR8_壹周互粉/完整源码/common/libs/Helper.py" />
+        <option value="$PROJECT_DIR$/practice/PR8_壹周互粉/完整源码/web/controllers/api/pinkRead.py" />
+        <option value="$PROJECT_DIR$/practice/PR8_壹周互粉/完整源码/mina/pages/huyueInfo/index.js" />
+        <option value="$PROJECT_DIR$/practice/PR8_壹周互粉/完整源码/mina/pages/index/index.js" />
+        <option value="$PROJECT_DIR$/practice/PR6_定时给微信发送信息/a壹周_指定微信群定时发送消息.py" />
+        <option value="$PROJECT_DIR$/practice/PR6_定时给微信发送信息/d趣信圈_微信群定时推广.py" />
+        <option value="$PROJECT_DIR$/practice/PR10_PyQt5_/untitled.py" />
+        <option value="$PROJECT_DIR$/practice/PR11_定时打开豆瓣留言/用GUI控制chorme浏览器.py" />
+        <option value="$PROJECT_DIR$/practice/PR11_定时打开豆瓣留言/a用GUI控制chorme浏览器.py" />
+        <option value="$PROJECT_DIR$/practice/CASE5_s5alipay-master/s5alipay-master/mxh_work/demo02.py" />
+        <option value="$PROJECT_DIR$/practice/CASE5_s5alipay-master/s5alipay-master/mxh_work/demo01.py" />
+        <option value="$PROJECT_DIR$/practice/CASE5_s5alipay-master/s5alipay-master/app01/views.py" />
+        <option value="$PROJECT_DIR$/practice/PR9_涨粉邦_批量修改html文件/a.1_批量修改html文件.py" />
       </list>
     </option>
   </component>
@@ -170,63 +200,97 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-40" />
-    <option name="y" value="-25" />
-    <option name="width" value="1750" />
-    <option name="height" value="970" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
-          <expand>
-            <path>
-              <item name="pythonTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythonTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonTest" type="462c0819:PsiDirectoryNode" />
-              <item name="baike_spider" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythonTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonTest" type="462c0819:PsiDirectoryNode" />
-              <item name="PR1_douban_zufang" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythonTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonTest" type="462c0819:PsiDirectoryNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythonTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonTest" type="462c0819:PsiDirectoryNode" />
-              <item name="python_mysql" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pythonTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pythonTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pythonTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pythonTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PR11_定时打开豆瓣留言" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pythonTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pythonTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="F:/工具/Git/Git/bin/git.exe" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="D:/Python36/Scripts/pyrcc5.exe" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\个人\python\pythonTest\practice\PR6_定时给微信发送信息" />
+      <recent name="F:\个人\python\pythonTest\practice\PR7_定时给QQ群发消息\图像识别" />
+      <recent name="C:\Users\泽宇\Desktop\pythonTest\参考案例" />
+      <recent name="C:\Users\泽宇\Desktop\pythonTest" />
+      <recent name="C:\Users\泽宇\Desktop\pythonTest\practice" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\泽宇\Desktop\pythonTest\PR1_douban_zufang" />
-      <recent name="C:\Users\泽宇\Desktop\pythonTest\douban_zufang" />
-      <recent name="C:\Users\泽宇\Desktop\pythonTest\baike_spider" />
-      <recent name="C:\Users\泽宇\Desktop\pythonTest\python" />
+      <recent name="F:\个人\python\pythonTest\practice\PR11_定时打开豆瓣留言" />
+      <recent name="F:\个人\python\pythonTest\practice\PR11_定时打开豆瓣留言\pic" />
+      <recent name="F:\个人\python\pythonTest\practice\PR11_定时打开豆瓣留言\图像识别" />
+      <recent name="F:\个人\python\pythonTest\practice" />
+      <recent name="F:\个人\python\pythonTest\practice\PR6_定时给微信发送信息" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -241,10 +305,251 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.spider_main (2)">
-    <configuration name="output.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/pythonTest/baike_spider/output.html" />
-    <configuration name="HtmlDownloader" type="PythonConfigurationType" factoryName="Python">
+  <component name="RunManager" selected="Python.CallWeatherWin">
+    <configuration default="false" name="a.1_批量修改html文件" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/PR9_涨粉邦_批量修改html文件" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pythonTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/PR9_涨粉邦_批量修改html文件/a.1_批量修改html文件.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="用GUI控制chorme浏览器" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/PR11_定时打开豆瓣留言" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/PR11_定时打开豆瓣留言/用GUI控制chorme浏览器.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="用GUI控制QQ" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/PR7_定时给QQ群发消息" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/PR7_定时给QQ群发消息/用GUI控制QQ.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="a用GUI控制chorme浏览器" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/PR11_定时打开豆瓣留言" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/PR11_定时打开豆瓣留言/a用GUI控制chorme浏览器.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="CallWeatherWin" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/PR10_PyQt5_/Chapter10/example1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/PR10_PyQt5_/Chapter10/example1/CallWeatherWin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="pythonTest" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="不至于">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="文档">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="HtmlDownloader" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -255,15 +560,15 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <module name="pythonTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/urllib/HtmlDownloader.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
+      <method />
     </configuration>
-    <configuration name="HtmlOutputer" type="PythonConfigurationType" factoryName="Python">
-      <module name="pythonTest" />
+    <configuration default="false" name="HtmlOutputer" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="2121" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -274,53 +579,15 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <module name="pythonTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/urllib/HtmlOutputer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
+      <method />
     </configuration>
-    <configuration name="spider_main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pythonTest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baike_spider" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baike_spider/spider_main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="spider_main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pythonTest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PR1_douban_zufang" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PR1_douban_zufang/spider_main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="spider_main" type="PythonConfigurationType" factoryName="Python">
-      <module name="pythonTest" />
+    <configuration default="false" name="spider_main" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -331,70 +598,56 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <module name="pythonTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/urllib/spider_main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
+      <method />
     </configuration>
-    <configuration name="test_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pythonTest" />
+    <configuration default="false" name="manage" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/参考案例/Django接口开发" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/test_main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="url_spider" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonTest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PR1_douban_zufang" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\泽宇\Desktop\pythonTest\PR1_douban_zufang\html_downloader.py" />
-      <option name="PARAMETERS" value="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/参考案例/Django接口开发/manage.py" />
+      <option name="PARAMETERS" value="runserver 127.0.0.1:8080" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
+      <method />
     </configuration>
-    <list>
-      <item itemvalue="Python.spider_main" />
-      <item itemvalue="Python.HtmlDownloader" />
-      <item itemvalue="Python.HtmlOutputer" />
-      <item itemvalue="Python.test_main" />
-      <item itemvalue="Python.spider_main (1)" />
-      <item itemvalue="JavaScript Debug.output.html" />
-      <item itemvalue="Python.url_spider" />
-      <item itemvalue="Python.spider_main (2)" />
+    <list size="9">
+      <item index="0" class="java.lang.String" itemvalue="Python.HtmlDownloader" />
+      <item index="1" class="java.lang.String" itemvalue="Python.HtmlOutputer" />
+      <item index="2" class="java.lang.String" itemvalue="Python.spider_main" />
+      <item index="3" class="java.lang.String" itemvalue="Python.manage" />
+      <item index="4" class="java.lang.String" itemvalue="Python.a.1_批量修改html文件" />
+      <item index="5" class="java.lang.String" itemvalue="Python.用GUI控制chorme浏览器" />
+      <item index="6" class="java.lang.String" itemvalue="Python.用GUI控制QQ" />
+      <item index="7" class="java.lang.String" itemvalue="Python.a用GUI控制chorme浏览器" />
+      <item index="8" class="java.lang.String" itemvalue="Python.CallWeatherWin" />
     </list>
     <recent_temporary>
-      <list>
-        <item itemvalue="Python.spider_main (2)" />
-        <item itemvalue="Python.url_spider" />
-        <item itemvalue="Python.spider_main (1)" />
-        <item itemvalue="JavaScript Debug.output.html" />
-        <item itemvalue="Python.test_main" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.CallWeatherWin" />
+        <item index="1" class="java.lang.String" itemvalue="Python.a.1_批量修改html文件" />
+        <item index="2" class="java.lang.String" itemvalue="Python.a用GUI控制chorme浏览器" />
+        <item index="3" class="java.lang.String" itemvalue="Python.用GUI控制chorme浏览器" />
+        <item index="4" class="java.lang.String" itemvalue="Python.用GUI控制QQ" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -410,36 +663,59 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="7" weight="0.40689656" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32965517" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24414062" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="找到" order="8" weight="0.32905984" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="运行" order="7" weight="0.22507122" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="调试" order="7" weight="0.32905984" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23454158" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2905028" sideWeight="0.47014925" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20670392" sideWeight="0.55117273" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20670392" sideWeight="0.4488273" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="查找" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32849163" sideWeight="0.48720682" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3273743" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21117319" sideWeight="0.50852877" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21117319" sideWeight="0.4914712" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22014925" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="查找" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295711" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="processedProjectFiles" value="true" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -461,193 +737,223 @@
           <line>23</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/havaFun.py</url>
+          <line>115</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/practice/PR7_定时给QQ群发消息/用GUI控制QQ.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="245" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="37" />
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="django-exception">
+          <properties exception="VariableDoesNotExist" />
+        </breakpoint>
+        <breakpoint enabled="true" type="jinja2-exception">
+          <properties exception="TemplateError" />
+        </breakpoint>
+        <breakpoint enabled="true" type="javascript-exception">
+          <properties />
+        </breakpoint>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="252" />
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="commentList" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>commentList</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/urllib/module_beautifulsoup.py" />
-    <entry file="file://$PROJECT_DIR$/urllib/HtmlDownloader.py" />
-    <entry file="file://$PROJECT_DIR$/urllib/url_spider.py" />
-    <entry file="file://$PROJECT_DIR$/urllib/HtmlParser.py" />
-    <entry file="file://$PROJECT_DIR$/urllib/HtmlOutputer.py" />
-    <entry file="file://$PROJECT_DIR$/urllib/module_beautifulsoup.py" />
-    <entry file="file://$PROJECT_DIR$/urllib/spider_main.py" />
-    <entry file="file://$PROJECT_DIR$/urllib/HtmlOutputer.py" />
-    <entry file="file://$PROJECT_DIR$/urllib/UrlManger.py" />
-    <entry file="file://$PROJECT_DIR$/urllib/HtmlDownloader.py" />
-    <entry file="file://$PROJECT_DIR$/urllib/HtmlParser.py" />
-    <entry file="file://$PROJECT_DIR$/test.py" />
-    <entry file="file://$PROJECT_DIR$/urllib/__init__.py" />
-    <entry file="file://D:/Python36/Lib/site-packages/bs4/element.py">
+    <entry file="file://$PROJECT_DIR$/practice/PR10_PyQt5_/Chapter10/example1/WeatherWin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-188">
-          <caret line="1297" column="8" selection-start-line="1297" selection-start-column="8" selection-end-line="1297" selection-end-column="8" />
+        <state relative-caret-position="209">
+          <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py" />
-    <entry file="file://$PROJECT_DIR$/urllib/UrlManager.py" />
-    <entry file="file://$PROJECT_DIR$/urllib/11.pyi" />
-    <entry file="file://D:/Python36/Lib/site-packages/bs4/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="54" column="6" selection-start-line="54" selection-start-column="6" selection-end-line="54" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/urllib/spider_main.py" />
-    <entry file="file://$PROJECT_DIR$/urllib/UrlManger.py" />
-    <entry file="file://$PROJECT_DIR$/urllib/HtmlOutputer.py" />
-    <entry file="file://$PROJECT_DIR$/urllib/HtmlDownloader.py" />
-    <entry file="file://$PROJECT_DIR$/python_mysql/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="41" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Python36/Lib/site-packages/pymysql/err.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="108" selection-start-line="108" selection-end-line="108" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_mysql/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/urllib/module_beautifulsoup.py" />
-    <entry file="file://$PROJECT_DIR$/urllib/HtmlParser.py" />
-    <entry file="file://$PROJECT_DIR$/python/test1.py" />
-    <entry file="file://$PROJECT_DIR$/python/test2.py" />
-    <entry file="file://$PROJECT_DIR$/python/module_1.py" />
-    <entry file="file://$PROJECT_DIR$/urllib/url_spider.py" />
-    <entry file="file://$PROJECT_DIR$/python/module_test.py" />
-    <entry file="file://$PROJECT_DIR$/Learn_baike1000_spider/spider.py" />
-    <entry file="file://$PROJECT_DIR$/baike_spider/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baike_spider/html_downloader.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baike_spider/url_manager.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-149" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baike_spider/output.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/url_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/test_main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/module_beautifulsoup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/HtmlParser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
-          <folding>
-            <element signature="e#24#53#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/douban_zufang/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/baike_spider/html_outputer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baike_spider/spider_main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="31" column="39" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baike_spider/html_parser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Python36/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5852">
-          <caret line="308" selection-start-line="308" selection-end-line="308" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PR1_douban_zufang/html_outputer.py">
+    <entry file="file://$PROJECT_DIR$/practice/PR10_PyQt5_/Chapter10/example1/CallWeatherWin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
-          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PR1_douban_zufang/html_parser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="23" />
+          <caret line="27" column="31" lean-forward="false" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
           <folding>
-            <element signature="e#24#53#0" expanded="true" />
+            <element signature="e#25#37#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PR1_douban_zufang/spider_main.py">
+    <entry file="file://$PROJECT_DIR$/practice/PR9_涨粉邦_批量修改html文件/a.1_批量修改html文件.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PR1_douban_zufang/html_downloader.py">
+    <entry file="file://$PROJECT_DIR$/practice/PR9_涨粉邦_批量修改html文件/a.1_批量修改html文件.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/PR9_涨粉邦_批量修改html文件/a.1_批量修改html文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/CASE5_s5alipay-master/s5alipay-master/app01/views.py" />
+    <entry file="file://$PROJECT_DIR$/practice/PR6_定时给微信发送信息/微信定时发送天气预报.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="19" column="18" lean-forward="false" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/PR9_涨粉邦_批量修改html文件/a.1_批量修改html文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="21" column="35" lean-forward="false" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/PR6_定时给微信发送信息/a壹周_指定微信群定时发送消息.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5187">
+          <caret line="290" column="0" lean-forward="false" selection-start-line="290" selection-start-column="0" selection-end-line="294" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python36/Lib/site-packages/pyscreeze/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5529">
+          <caret line="296" column="19" lean-forward="false" selection-start-line="296" selection-start-column="15" selection-end-line="296" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/PR7_定时给QQ群发消息/用GUI控制QQ.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1539">
+          <caret line="86" column="30" lean-forward="false" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/PR11_定时打开豆瓣留言/a用GUI控制chorme浏览器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1273">
+          <caret line="67" column="18" lean-forward="false" selection-start-line="67" selection-start-column="18" selection-end-line="67" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/PR6_定时给微信发送信息/微信定时发送天气预报.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="19" column="18" lean-forward="false" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/PR6_定时给微信发送信息/a壹周_指定微信群定时发送消息.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5187">
+          <caret line="290" column="0" lean-forward="false" selection-start-line="290" selection-start-column="0" selection-end-line="294" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python36/Lib/site-packages/pyscreeze/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5529">
+          <caret line="296" column="19" lean-forward="false" selection-start-line="296" selection-start-column="15" selection-end-line="296" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/PR7_定时给QQ群发消息/用GUI控制QQ.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1539">
+          <caret line="86" column="30" lean-forward="false" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/PR11_定时打开豆瓣留言/a用GUI控制chorme浏览器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="67" column="18" lean-forward="false" selection-start-line="67" selection-start-column="18" selection-end-line="67" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/CASE5_s5alipay-master/s5alipay-master/mxh_work/demo02.py" />
+    <entry file="file://$PROJECT_DIR$/practice/CASE5_s5alipay-master/s5alipay-master/mxh_work/demo03.py" />
+    <entry file="file://$PROJECT_DIR$/practice/CASE5_s5alipay-master/s5alipay-master/keys/alipay_public_2048.txt" />
+    <entry file="file://$PROJECT_DIR$/practice/CASE5_s5alipay-master/s5alipay-master/keys/app_private_2048.txt" />
+    <entry file="file://$PROJECT_DIR$/practice/CASE5_s5alipay-master/s5alipay-master/mxh_work/demo01.py" />
+    <entry file="file://$PROJECT_DIR$/practice/CASE5_s5alipay-master/s5alipay-master/app01/tests.py" />
+    <entry file="file://$PROJECT_DIR$/practice/CASE5_s5alipay-master/s5alipay-master/app01/models.py" />
+    <entry file="file://$PROJECT_DIR$/practice/CASE5_s5alipay-master/s5alipay-master/app01/apps.py" />
+    <entry file="file://$PROJECT_DIR$/practice/CASE5_s5alipay-master/s5alipay-master/app01/admin.py" />
+    <entry file="file://$PROJECT_DIR$/practice/CASE5_s5alipay-master/s5alipay-master/app01/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/practice/CASE5_s5alipay-master/s5alipay-master/s5alipay/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/practice/CASE5_s5alipay-master/s5alipay-master/s5alipay/settings.py" />
+    <entry file="file://$PROJECT_DIR$/practice/CASE5_s5alipay-master/s5alipay-master/s5alipay/wsgi.py" />
+    <entry file="file://$PROJECT_DIR$/practice/CASE5_s5alipay-master/s5alipay-master/utils/pay.py" />
+    <entry file="file://$PROJECT_DIR$/practice/CASE5_s5alipay-master/s5alipay-master/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/practice/CASE5_s5alipay-master/s5alipay-master/manage.py" />
+    <entry file="file://$PROJECT_DIR$/practice/CASE5_s5alipay-master/s5alipay-master/x1.py" />
+    <entry file="file://$PROJECT_DIR$/practice/CASE5_s5alipay-master/s5alipay-master/templates/index.html" />
+    <entry file="file://$PROJECT_DIR$/practice/CASE5_s5alipay-master/s5alipay-master/s5alipay/urls.py" />
+    <entry file="file://$PROJECT_DIR$/practice/CASE5_s5alipay-master/s5alipay-master/app01/views.py" />
+    <entry file="file://$PROJECT_DIR$/practice/PR9_涨粉邦_批量修改html文件/a.1_批量修改html文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="23" column="44" lean-forward="true" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/PR10_PyQt5_/Chapter10/example1/WeatherWin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/PR10_PyQt5_/Chapter10/example1/CallWeatherWin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="27" column="31" lean-forward="false" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+          <folding>
+            <element signature="e#25#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/PR11_定时打开豆瓣留言/CallWeatherWin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
